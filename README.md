@@ -36,6 +36,6 @@ Add Thai and English language support
 Integrate real-time speech recognition
 Improve location mapping accuracy
 Develop a more user-friendly dispatcher dashboard
-Note
+
 
 This repository uses sample and simulated data only. No real emergency call records or personal information are included.
